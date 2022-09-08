@@ -1,4 +1,5 @@
 ## Hello!
 
-> Teftelka - zamechatel'nii kotik :)
+Teftelka - zamechatel'nii kotik :)
+
 Совершенно с этим согласен!
